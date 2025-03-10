@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+td,th{
+
+ border: 3px solid rgb(255, 255, 255);
+ font: size 19px;
+ padding: 15px;
+  margin: 4px;
+ }
+table {
+   background-color: rgb(255, 0, 0);
+  color: aliceblue;
+   border: solid  rgb(255, 0, 0) 5px;
+   }
+
+th{
+    color: rgb(255, 255, 255);
+}
+   
+
+a{
+    margin: 19px;
+    color: aliceblue;
+}
+div{
+    min-width: 100vw;
+    min-height: 100vh;
+}
+h1
+{
+ color: red;
+ margin-left: 40%;
+ border: solid 3px red;
+ display:inline;
+ padding: 0px 25px;
+ margin-bottom: 10px;
+ 
+}
