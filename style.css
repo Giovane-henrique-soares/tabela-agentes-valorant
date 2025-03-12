@@ -9,7 +9,7 @@ td,th{
   margin: 4px;
  }
 table {
-   background-color: rgb(255, 0, 0);
+   background-color: rgb(216, 49, 49);
   color: aliceblue;
    border: solid  rgb(255, 0, 0) 5px;
    }
@@ -21,7 +21,11 @@ th{
 
 a{
     margin: 19px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 20px;
+    background-color: rgb(193, 202, 210);
 }
 div{
     min-width: 100vw;
