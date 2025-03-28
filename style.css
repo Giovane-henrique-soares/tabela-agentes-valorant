@@ -6,16 +6,19 @@ td,th{
  border: 3px solid rgb(255, 255, 255);
  font: size 19px;
  padding: 15px;
-  margin: 4px;
+  
   
  }
  td{
     color: aliceblue;
     text-shadow: 4px 2px 1px rgb(0, 0, 0);
     line-height: 20px;
+    
  }
+ 
+
 table {
-   background-color: rgb(216, 49, 49);
+   background-color: rgb(62, 58, 58);
   color: rgb(0, 0, 0);
    border: solid  rgb(255, 0, 0) 5px;
    }
@@ -53,7 +56,7 @@ figure{
     background-color: rgb(0, 0, 0);
     padding: 20px;
     border-radius:10px;
-    border: solid white 2px;
+    border: solid rgb(255, 0, 0) 2px;
     
 }
 button{
@@ -64,4 +67,28 @@ button{
 a{
     color: rgb(255, 255, 255);
     text-decoration: none;
+}
+.habilidades-png {
+    border: solid 3px red;
+    background-color:rgb(61, 55, 55);
+    border-radius: 100px;
+    padding: 18px;
+    width: 100px;
+    height: 100px;
+    
+    
+}
+.estilização-texto-habilidade{
+    background-color:rgb(61, 55, 55);
+    text-align: center;
+    border: solid 2px white;
+    min-width: 300px;
+    min-height: 350px;
+}
+p{
+    text-align: center;
+    color: red;
+}
+th{
+    font-size: xx-large;
 }
