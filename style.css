@@ -57,7 +57,11 @@ img
  width: 140px;
  height: 140px;
  border: solid 2px white;
+<<<<<<< HEAD
  background-color: rgb(0, 0, 0);
+=======
+ background-color: rgb(156, 181, 181);
+>>>>>>> c71ba59656147b46993984f75e6fefdc4305f775
  }
  figcaption {
     text-align: center;
