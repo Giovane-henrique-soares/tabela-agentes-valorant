@@ -57,7 +57,8 @@ img
  width: 140px;
  height: 140px;
  border: solid 2px white;
- background-color: rgb(0, 0, 0);
+ background-color: rgb(255, 255, 255);
+ background-color: black;
  }
  figcaption {
     text-align: center;
