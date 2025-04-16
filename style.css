@@ -106,6 +106,8 @@ a{
 p{
     text-align: center;
     color: red;
+    font-size: 22px;
+    padding-top: 10px;
 }
 th{
     font-size: xx-large;
